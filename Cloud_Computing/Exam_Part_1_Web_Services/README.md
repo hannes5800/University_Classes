@@ -1,0 +1,1 @@
+This exam was an in class exam with a time limit, for which the task description was projected with a beamer in front of us. Therefore there is no PDF file with the task description. We had to query certain from public API service platforms.

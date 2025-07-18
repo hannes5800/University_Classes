@@ -1,0 +1,1 @@
+For a detailed task description, have a look into "CC_Exam_Part_2_Task_Description.pdf".

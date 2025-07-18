@@ -1,0 +1,1 @@
+For a detailed task description, have a look into "BDT_Exam_Part_1_Task_Description.pdf".
